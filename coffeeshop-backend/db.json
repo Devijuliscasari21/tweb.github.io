@@ -1,0 +1,119 @@
+{
+  "best-products": [
+    {
+      "id": 1,
+      "kode": "c-01",
+      "nama": "Americano",
+      "harga": 25000,
+      "is_ready": true,
+      "gambar": "americano.jpg"
+    },
+    {
+      "id": 2,
+      "kode": "c-02",
+      "nama": "Cappucino",
+      "harga": 27000,
+      "is_ready": true,
+      "gambar": "cappucino.jpeg"
+    },
+    {
+      "id": 3,
+      "kode": "c-03",
+      "nama": "Espresso",
+      "harga": 30000,
+      "is_ready": true,
+      "gambar": "espresso.jpg"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "kode": "c-01",
+      "nama": "Americano",
+      "harga": 25000,
+      "is_ready": true,
+      "gambar": "americano.jpg"
+    },
+    {
+      "id": 2,
+      "kode": "c-02",
+      "nama": "Cappucino",
+      "harga": 27000,
+      "is_ready": true,
+      "gambar": "cappucino.jpeg"
+    },
+    {
+      "id": 3,
+      "kode": "c-03",
+      "nama": "Espresso",
+      "harga": 30000,
+      "is_ready": true,
+      "gambar": "espresso.jpg"
+    },
+    {
+      "id": 4,
+      "kode": "c-04",
+      "nama": "Latte",
+      "harga": 29000,
+      "is_ready": true,
+      "gambar": "latte.jpg"
+    },
+    {
+      "id": 5,
+      "kode": "c-05",
+      "nama": "Lattemacchiato",
+      "harga": 35000,
+      "is_ready": true,
+      "gambar": "lattemacchiato.jpg"
+    },
+    {
+      "id": 6,
+      "kode": "c-06",
+      "nama": "Macchiato",
+      "harga": 30000,
+      "is_ready": true,
+      "gambar": "macchiato.jpg"
+    }
+  ],
+  "cakes": [
+    {
+      "id": 11,
+      "kode": "d-01",
+      "nama": "Brownies",
+      "harga": 25000,
+      "is_ready": true,
+      "gambar": "brownies.jpg"
+    }
+  ],
+  "keranjangs": [
+    {
+      "jumlah_pemesanan": "1",
+      "products": {
+        "id": 2,
+        "kode": "c-02",
+        "nama": "Cappucino",
+        "harga": 27000,
+        "is_ready": true,
+        "gambar": "cappucino.jpeg"
+      },
+      "id": 1
+    },
+    {
+      "jumlah_pemesanan": "2",
+      "keterangan": "",
+      "products": {
+        "id": 2,
+        "kode": "c-02",
+        "nama": "Cappucino",
+        "harga": 27000,
+        "is_ready": true,
+        "gambar": "cappucino.jpeg"
+      },
+      "id": 2
+    }
+  ],
+  "pesanans": [
+    [],
+    []
+  ]
+}
